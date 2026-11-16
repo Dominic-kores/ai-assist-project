@@ -152,4 +152,4 @@ The prompts in `server/prompts.js` lean toward Kenyan and East African context f
 - **Backend:** Node.js, Express 5
 - **Database:** SQLite via `better-sqlite3`
 - **AI:** `@anthropic-ai/sdk`, `openai`
-# ai-assist-project
+
